@@ -1,0 +1,14 @@
+{
+  "record_count_boundary_rule": 1297332,
+  "unique_links_boundary_rule": 1297332,
+  "duplicate_excess": 0,
+  "links_matching_postings": 1297332,
+  "links_not_in_postings": 0,
+  "postings_without_summary_record": 51122,
+  "empty_summary_count": 0,
+  "min_summary_bytes": 22,
+  "median_summary_bytes": 3390.0,
+  "p95_summary_bytes": 7977.0,
+  "max_summary_bytes": 35386,
+  "malformed_record_starts": 0
+}

@@ -1,0 +1,2 @@
+min_tokens,q1_tokens,median_tokens,q3_tokens,max_tokens,postings_with_duplicate_normalised_tokens,duplicate_token_pct
+1,18,24,31,190,649.0,10.62

@@ -1,0 +1,65 @@
+{
+  "postings": {
+    "posting_rows": 1348454,
+    "unique_posting_links": 1348454,
+    "first_seen_min": "2024-01-12",
+    "first_seen_max": "2024-01-17",
+    "processed_min": "2024-01-19 09:45:09.215838+00",
+    "processed_max": "2024-01-21 17:37:21.080491+00",
+    "companies": 90605,
+    "job_titles": 584544,
+    "job_locations": 29153
+  },
+  "postings_missing": {
+    "job_link": 0.0,
+    "last_processed_time": 0.0,
+    "got_summary": 0.0,
+    "got_ner": 0.0,
+    "is_being_worked": 0.0,
+    "job_title": 0.0,
+    "company": 11.0,
+    "job_location": 19.0,
+    "first_seen": 0.0,
+    "search_city": 0.0,
+    "search_country": 0.0,
+    "search_position": 0.0,
+    "job_level": 0.0,
+    "job_type": 0.0
+  },
+  "skills": {
+    "skill_rows": 1296381.0,
+    "unique_skill_links": 1296381.0,
+    "missing_link": 0.0,
+    "missing_skills": 2007.0
+  },
+  "ba_us": {
+    "postings": 6113.0,
+    "titles": 3951.0,
+    "companies": 2437.0,
+    "locations": 1316.0,
+    "title_mentions_business_analyst": 1894.0
+  },
+  "token_quality": {
+    "min_tokens": 1.0,
+    "q1_tokens": 18.0,
+    "median_tokens": 24.0,
+    "q3_tokens": 31.0,
+    "max_tokens": 190.0,
+    "postings_with_duplicate_normalised_tokens": 649.0,
+    "duplicate_token_pct": 10.62
+  },
+  "job_summary": {
+    "record_count_boundary_rule": 1297332,
+    "unique_links_boundary_rule": 1297332,
+    "duplicate_excess": 0,
+    "links_matching_postings": 1297332,
+    "links_not_in_postings": 0,
+    "postings_without_summary_record": 51122,
+    "empty_summary_count": 0,
+    "min_summary_bytes": 22,
+    "median_summary_bytes": 3390.0,
+    "p95_summary_bytes": 7977.0,
+    "max_summary_bytes": 35386,
+    "malformed_record_starts": 0
+  }
+}
