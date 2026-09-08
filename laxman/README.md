@@ -15,8 +15,8 @@ support the individual data exploration and analysis for Assignment 1
   category breakdowns (job level, job type, search country).
 
 ### Sample Data
-- **`sample_postings.csv`** — 5,000-row sample of the LinkedIn job postings dataset.
-- **`sample_summary.csv`** — 5,000-row sample of the job description summaries dataset.
+- **`sample_postings.csv`** —  sample of the LinkedIn job postings dataset.
+- **`sample_summary.csv`** —  sample of the job description summaries dataset.
 
 ### Tableau Workbook
 - **`Skill analysis.twb`** — Tableau workbook containing the exploratory 
