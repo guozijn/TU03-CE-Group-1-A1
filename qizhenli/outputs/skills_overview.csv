@@ -1,0 +1,2 @@
+missing_job_skills_rows,usable_job_skills_rows,skill_count_scope,mean_skill_count,median_skill_count,min_skill_count,max_skill_count,first_seen_scope,first_seen_min,first_seen_max
+2007,1294374,US BA postings; unique normalized tokens including business analysis,26.396633735821442,24.0,3.0,159.0,all job posting records,2024-01-12,2024-01-17

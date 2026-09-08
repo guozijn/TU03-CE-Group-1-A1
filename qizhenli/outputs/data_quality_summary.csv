@@ -1,0 +1,52 @@
+scope,metric,value
+job_skills.csv,rows,1296381
+job_skills.csv,columns,2
+job_skills.csv,column_names,"[""job_link"", ""job_skills""]"
+job_skills.csv,unique_nonblank_job_links,1296381
+job_skills.csv,duplicate_job_link_excess_rows,0
+job_skills.csv,duplicated_job_link_keys,0
+job_skills.csv,missing:job_link,0
+job_skills.csv,missing:job_skills,2007
+linkedin_job_postings.csv,rows,1348454
+linkedin_job_postings.csv,columns,14
+linkedin_job_postings.csv,column_names,"[""job_link"", ""last_processed_time"", ""got_summary"", ""got_ner"", ""is_being_worked"", ""job_title"", ""company"", ""job_location"", ""first_seen"", ""search_city"", ""search_country"", ""search_position"", ""job_level"", ""job_type""]"
+linkedin_job_postings.csv,unique_nonblank_job_links,1348454
+linkedin_job_postings.csv,duplicate_job_link_excess_rows,0
+linkedin_job_postings.csv,duplicated_job_link_keys,0
+linkedin_job_postings.csv,missing:job_link,0
+linkedin_job_postings.csv,missing:last_processed_time,0
+linkedin_job_postings.csv,missing:got_summary,0
+linkedin_job_postings.csv,missing:got_ner,0
+linkedin_job_postings.csv,missing:is_being_worked,0
+linkedin_job_postings.csv,missing:job_title,0
+linkedin_job_postings.csv,missing:company,11
+linkedin_job_postings.csv,missing:job_location,19
+linkedin_job_postings.csv,missing:first_seen,0
+linkedin_job_postings.csv,missing:search_city,0
+linkedin_job_postings.csv,missing:search_country,0
+linkedin_job_postings.csv,missing:search_position,0
+linkedin_job_postings.csv,missing:job_level,0
+linkedin_job_postings.csv,missing:job_type,0
+linkedin_job_postings.csv,first_seen_min,2024-01-12
+linkedin_job_postings.csv,first_seen_max,2024-01-17
+linkedin_job_postings.csv,invalid_nonblank_first_seen,0
+analysis,rows_without_usable_skills,2007
+analysis,duplicate_tokens_removed,144826
+analysis,empty_tokens_removed,2021
+analysis,postings_without_skill_record,52073
+analysis,postings_with_record_but_no_usable_skills,2007
+analysis,BA_postings_without_metadata,0
+analysis,BA_conflicting_metadata_keys,0
+analysis,duplicate_skill_policy,union tokens across same job_link
+analysis,duplicate_metadata_policy,first source row for same job_link
+analysis,US_BA_skill_count_above_100,15
+analysis,US_BA_max_skill_count,159
+analysis,US_BA_postings_with:problem solving,1473
+analysis,US_BA_postings_with:problemsolving,733
+analysis,US_BA_postings_with:communication,2314
+analysis,US_BA_postings_with:communication skills,904
+analysis,US_BA_postings_with:business analytics,18
+analysis,US_BA_postings_with:bachelor's degree,801
+analysis,US_BA_postings_with_both:problem solving|problemsolving,14
+analysis,US_BA_postings_with_both:communication|communication skills,43
+analysis,job_title_top10_cutoff_ties,"[""Asset & Wealth Management - Tax Senior Associate"", ""Manager, HR Systems"", ""Specialized Tax Services - Research & Development - Manager"", ""Sr. Business Analyst""]"
