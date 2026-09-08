@@ -8,7 +8,7 @@ support the individual data exploration and analysis for Assignment 1
 ## Contents
 
 ### Python Scripts
-- **`sample.py`** — Creates smaller sample files (first 5,000 rows) from 
+- **`sample.py`** — Creates smaller sample files  from 
   the full linkedin_job_postings.csv and job_summary.csv datasets.
 - **`stats.py`** — Computes full-dataset statistics across all three source 
   files, including missing value counts, distinct value counts, and 
